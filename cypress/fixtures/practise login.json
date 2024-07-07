@@ -1,0 +1,12 @@
+[{
+    "username" : "Student",
+    "password" : "Password123"
+},
+{
+    "username" : "IncorrectUser",
+    "password" : "Password123"
+},
+{
+    "username" : "Student",
+    "password" : "IncorrectPassword"
+}]

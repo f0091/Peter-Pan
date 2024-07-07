@@ -1,0 +1,18 @@
+[
+    {
+        "username" : "Admin",
+        "password" : "admin123",
+        "expected" : "PIM"
+    },
+    {
+        "username" : "Admin",
+        "password" : "admin003",
+        "expected" : "Invalid credentials"
+    },
+    {
+        "username" : "Cdmin",
+        "password" : "admin123",
+        "expected" : "Invalid credentials"
+    }
+    
+]
